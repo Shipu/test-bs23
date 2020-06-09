@@ -1,0 +1,13 @@
+{
+    "name": "shipuahamed/brain-station-23",
+    "require": {
+        "doctrine/dbal": "^2.9"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shipu",
+            "email": "shipuahamed01@gmail.com"
+        }
+    ]
+}
